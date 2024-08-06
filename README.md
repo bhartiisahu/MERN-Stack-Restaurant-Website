@@ -1,27 +1,38 @@
 # MERN-Stack-Restaurant-Website
 A restaurnt website using MERN!!
-A project made with MERN technology which is used for online seat reservation in restauranrs.
-To provide precise step-by-step instructions, I will need to see the directory structure and the content of the package.json files. Since you haven't provided the exact structure or package.json files, I'll give you a general guide based on common practices for MERN stack projects.
+LIVE DEMO : 
 
-Here's a step-by-step guide with the commands to set up and run your MERN Stack Restaurant Reservation project:
+![image](https://github.com/user-attachments/assets/6ca13e6a-18ee-42d8-bf8f-7c5a711118e1)
+![image](https://github.com/user-attachments/assets/09a70024-7b92-4cc1-ab63-a03ff47d241e)
+![image](https://github.com/user-attachments/assets/c95dd1e6-0534-427b-9a85-f4422fad713e)
+![image](https://github.com/user-attachments/assets/00de064d-c1e4-4c6b-beec-c145663cd559)
+![image](https://github.com/user-attachments/assets/5595872d-ab95-4c09-a00b-d2bbca2cda3a)
 
-### 1. **Unzip the Project (if needed)**
-If your project is in a zip file, you need to unzip it first. If it's already unzipped, you can skip this step.
+
+
+
+Here's the updated step-by-step guide:
+
+### 1. **Clone the Project Repository**
+
+Use the `git clone` command to clone your project repository:
 
 ```bash
-unzip MERN_STACK_RESTAURANT_RESERVATION-main.zip
-cd MERN_STACK_RESTAURANT_RESERVATION-main
+git clone https://github.com/bhartiisahu/MERN-Stack-Restaurant-Website.git
+cd MERN-Stack-Restaurant-Website
 ```
 
 ### 2. **Install Dependencies**
 
 #### a. Navigate to the Backend Directory and Install Dependencies
+
 ```bash
 cd backend
 npm install
 ```
 
 #### b. Navigate to the Frontend Directory and Install Dependencies
+
 ```bash
 cd ../frontend
 npm install
@@ -41,16 +52,8 @@ npm start
 Open a new terminal window or tab, then navigate to the frontend directory and start the server:
 
 ```bash
-cd /path/to/MERN_STACK_RESTAURANT_RESERVATION-main/frontend
+cd /path/to/MERN-Stack-Restaurant-Website/frontend
 npm start
 ```
 
-This will start both your backend and frontend servers, allowing you to work with your project locally.
-
-If you face any issues during these steps, feel free to ask for help!
-
-### Notes:
-- If the project has a different structure (e.g., the backend and frontend directories have different names or are located differently), adjust the commands accordingly.
-- If there are specific scripts defined in your package.json for starting the project (e.g., npm run dev instead of npm start), use those commands.
-
-If you can upload the package.json files, I can tailor the commands to match the exact setup of your project.
+This sequence of commands will set up and run your project locally.
