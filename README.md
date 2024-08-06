@@ -1,6 +1,6 @@
 # MERN-Stack-Restaurant-Website
 A restaurnt website using MERN!!
-LIVE DEMO : 
+
 
 ![image](https://github.com/user-attachments/assets/6ca13e6a-18ee-42d8-bf8f-7c5a711118e1)
 ![image](https://github.com/user-attachments/assets/09a70024-7b92-4cc1-ab63-a03ff47d241e)
