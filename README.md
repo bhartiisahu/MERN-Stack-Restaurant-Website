@@ -11,7 +11,7 @@ A restaurnt website using MERN!!
 
 
 
-Here's the updated step-by-step guide:
+Here's the  step-by-step guide:
 
 ### 1. **Clone the Project Repository**
 
